@@ -1,0 +1,221 @@
+1536734056226	geckodriver	INFO	geckodriver 0.20.1
+1536734056288	geckodriver	INFO	Listening on 127.0.0.1:64446
+1536734059286	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.CFcoxf5QBlx3"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536734060884	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536734065491	Marionette	INFO	Listening on port 64802
+1536734065722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536734065800	Marionette	DEBUG	Register listener.js for window 4294967297
+1536734066262	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536734066688	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536734066688	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1536734066913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536734066921	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536734069356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536734070525	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost/agileone/index.php"
+1536734070709	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost/agileone/index.php"
+1536734070713	Marionette	DEBUG	Received DOM event "unload" for "http://localhost/agileone/index.php"
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536734070870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536734070877	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536734071911	Marionette	INFO	New connections will no longer be accepted
+[Parent 8480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536737151644	geckodriver	INFO	geckodriver 0.20.1
+1536737151644	geckodriver	INFO	Listening on 127.0.0.1:57035
+1536737154701	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.JCRV6e5pZxdi"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737155869	Marionette	INFO	Enabled via --marionette
+1536737158919	Marionette	INFO	Listening on port 57322
+1536737160014	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536737165664	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536737250089	geckodriver	INFO	geckodriver 0.20.1
+1536737250089	geckodriver	INFO	Listening on 127.0.0.1:50975
+1536737253116	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.JSvnEgHPRH2y"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737254027	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737257241	Marionette	INFO	Listening on port 51328
+1536737257269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536737257351	Marionette	DEBUG	Register listener.js for window 4294967297
+1536737257517	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536737257933	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536737257934	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1536737258025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737258036	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737260374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536737261544	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost/agileone/index.php"
+1536737261699	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost/agileone/index.php"
+1536737261701	Marionette	DEBUG	Received DOM event "unload" for "http://localhost/agileone/index.php"
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536737261776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737261784	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737262808	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536737305761	geckodriver	INFO	geckodriver 0.20.1
+1536737305776	geckodriver	INFO	Listening on 127.0.0.1:56850
+1536737308803	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.nyFMNi6LJ9f0"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737309810	Marionette	INFO	Enabled via --marionette
+1536737312742	Marionette	INFO	Listening on port 57182
+1536737312990	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536737318537	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536737403426	geckodriver	INFO	geckodriver 0.20.1
+1536737403442	geckodriver	INFO	Listening on 127.0.0.1:50725
+1536737406484	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.MZR9fOSbnP9s"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737407394	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737410328	Marionette	INFO	Listening on port 51075
+1536737410627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536737410698	Marionette	DEBUG	Register listener.js for window 4294967297
+1536737410721	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536737411228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536737411228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1536737411305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737411321	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737413665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536737414836	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost/agileone/index.php"
+1536737415047	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost/agileone/index.php"
+1536737415049	Marionette	DEBUG	Received DOM event "unload" for "http://localhost/agileone/index.php"
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536737415129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737415154	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737416248	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+1536737747815	geckodriver	INFO	geckodriver 0.20.1
+1536737747815	geckodriver	INFO	Listening on 127.0.0.1:54026
+1536737750860	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.5QGgImaYpY0F"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737751698	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536737755138	Marionette	INFO	Listening on port 54364
+1536737756141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536737756208	Marionette	DEBUG	Register listener.js for window 4294967297
+1536737756232	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536737756617	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536737756617	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1536737756688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737756700	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737759029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536737760198	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost/agileone/index.php"
+1536737760381	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost/agileone/index.php"
+1536737760383	Marionette	DEBUG	Received DOM event "unload" for "http://localhost/agileone/index.php"
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536737760467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536737760473	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536737761574	Marionette	INFO	New connections will no longer be accepted
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536738130579	geckodriver	INFO	geckodriver 0.20.1
+1536738130594	geckodriver	INFO	Listening on 127.0.0.1:61206
+1536738133638	mozrunner::runner	INFO	Running command: "D:\\software_common\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fay\\AppData\\Local\\Temp\\rust_mozprofile.ve2uQDRjlgkl"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536738134705	Marionette	INFO	Enabled via --marionette
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1536738137848	Marionette	INFO	Listening on port 61557
+1536738138970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536738139060	Marionette	DEBUG	Register listener.js for window 4294967297
+1536738139076	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1536738139505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1536738139506	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\fay\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+1536738139578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536738139588	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536738141929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1536738143083	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost/agileone/index.php"
+1536738143242	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost/agileone/index.php"
+1536738143244	Marionette	DEBUG	Received DOM event "unload" for "http://localhost/agileone/index.php"
+JavaScript warning: http://localhost/agileone/Library/JQuery/jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://localhost/agileone/Library/JQuery/jquery.datetime.js, line 203: SyntaxError: missing ( before formal parameters
+1536738143316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost/agileone/index.php"
+1536738143355	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost/agileone/index.php"
+1536738144463	Marionette	INFO	New connections will no longer be accepted
+[Child 5844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
